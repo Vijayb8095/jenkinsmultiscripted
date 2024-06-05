@@ -1,0 +1,6 @@
+=============
+My name is Vijay
+
+I have created multibranch pipeline 
+now iam checking it with scripted pipeline
+=============
